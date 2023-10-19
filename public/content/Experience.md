@@ -1,0 +1,38 @@
+## Oracle Labs Morocco
+- *Research Assistant* | June'23 - Sep'23
+- ![logo512](../assets/logorcle.png)
+- Tags: Research and Development
+- Badges:
+  - Java [blue]
+  - JUnit [blue]
+  - Git [blue]
+  - Scrum [blue]
+  - Graph Theory [blue]
+- List Items:
+  - Design new variants of the Dijkstra's algorithm and bidirectional Dijkstra's algorithm that can handle directed graphs without considering the directions of the edges.
+  - Implementation of these algorithms using the PGX algorithm (a graph algorithm-specific language based on Java).
+  - Testing the precision and performance of the algorithms.
+  - Deploy the algorithms in Oracle PGX.
+
+## Wibday
+- *Full Stack Developer* | July'23 - Sep'23
+- ![logo512](../assets/wibp.png)
+- Tags: Full Stack Development
+- Badges:
+  - Php [blue]
+  - Laravel [blue]
+  - Javascript [blue]
+  - Html [blue]
+  - Css [blue]
+  - Bootstrap [blue]
+  - Ajax [blue]
+  - Composer [blue]
+  - Mysql [blue]
+  - Uml [blue]
+- List Items:
+  - Design the database architecture for the back-office and ad manager of a sports news platform.
+  - Create an administration panel for adding, deleting, modifying, and viewing news statistics, as well as managing newsletter subscribers.
+  - Create an administration panel for adding, deleting, modifying, and viewing advertising banner statistics.
+  - Create two APIs, one for extracting news and another for extracting advertising banners.
+  - Create an email contact service.
+  - Create the various web interfaces for the platform.
